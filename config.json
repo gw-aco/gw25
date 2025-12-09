@@ -1,0 +1,16 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "https://mcstaging.live-search-dev.magento-ds.com/graphql",
+      "commerce-endpoint": "https://mcstaging.live-search-dev.magento-ds.com/graphql",
+      "headers": {
+        "all": {
+          "ac-channel-id": "c0780d24-00b0-4236-bc31-ba586d3e7f0b",
+          "ac-environment-id": "KZrr4s3gAAbumMGicqrvVo",
+          "ac-price-book-id": "west_coast_inc",
+          "ac-scope-locale": "en-US"
+        }
+      }
+    }
+  }
+}
