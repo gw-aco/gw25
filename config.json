@@ -2,9 +2,10 @@
   "public": {
     "default": {
       "commerce-core-endpoint": "https://live-search-dev.magento-ds.com/graphql/graphql",
-      "commerce-endpoint": "https://live-search-dev.magento-ds.com/graphql/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/KZrr4s3gAAbumMGicqrvVo/graphql",
       "headers": {
         "all": {
+          "store": "default",
           "ac-channel-id": "c0780d24-00b0-4236-bc31-ba586d3e7f0b",
           "ac-environment-id": "KZrr4s3gAAbumMGicqrvVo",
           "ac-price-book-id": "west_coast_inc",
