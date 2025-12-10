@@ -216,7 +216,6 @@ export type OrderDataModel = {
     items: OrderItemModel[];
     totalGiftCard: MoneyProps;
     grandTotal: MoneyProps;
-    grandTotalExclTax: MoneyProps;
     totalShipping?: MoneyProps;
     subtotalExclTax: MoneyProps;
     subtotalInclTax: MoneyProps;
